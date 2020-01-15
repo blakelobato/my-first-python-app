@@ -20,6 +20,9 @@ cd my-first-python-app
 
 Use Anaconda to create and activate a new virtual environment, perhaps called "game-env":
 
+
+
+
 ```sh
 conda create -n game-env python=3.7 # (first time only)
 conda activate game-env
